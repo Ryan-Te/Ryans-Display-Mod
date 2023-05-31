@@ -1,0 +1,6 @@
+MonochromeDisplay:
+    column: "Displays"
+    category: "ASCII"
+    prefab: dynamic
+    placingRules: dynamic
+    clientCode: RyansDisplayMod.Client.MonochromeDisplay
